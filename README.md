@@ -1,0 +1,1 @@
+# android_kernel_amazon_mt8173-common
